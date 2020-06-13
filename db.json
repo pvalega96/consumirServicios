@@ -1,0 +1,17 @@
+{
+
+  "users: [
+  {"id": 1, "name": "Marines Mendez", "username": "MGMarines", "email": "marines@codigofacilito.com", "image": "https://i.iib.co/ZH7356D/cody.jpg"},
+  {"id": 2, "name": "Jose", "username": "MGMarines", "email": "marines@codigofacilito.com", "image": "https://i.iib.co/ZH7356D/cody.jpg"},
+  {"id": 3, "name": "Carmen", "username": "MGMarines", "email": "marines@codigofacilito.com", "image": "https://i.iib.co/ZH7356D/cody.jpg"}
+
+  "posts": [
+    { "id": 1, "title": "¿Por que adpotar animales?", body: "pienso que es importante sdsdds..", "userId": 1},
+    { "id": 2, "title": "¿Por que adpotadsgdg?", body: "pienso quxxxxortante sdsdds..", "userId": 1 },
+    { "id": 2, "title": "¿Por que adposdgds?", body: "pienso que es yyyy sdsdds..", "userId": 2 }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
+}
